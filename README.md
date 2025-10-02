@@ -154,4 +154,4 @@ These scripts typically:
 - Please avoid committing large binaries; link to dataset sources instead
 
 ## License
-No license file detected. Add one (e.g., MIT/Apache-2.0) if you plan to share or distribute.
+MIT License
